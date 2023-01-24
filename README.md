@@ -1,1 +1,1 @@
-# knights-travails
+The aim of this project is to create a function which will return the shortest route between any 2 squares on a chess board for a knight
